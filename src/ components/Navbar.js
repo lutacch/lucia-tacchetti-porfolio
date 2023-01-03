@@ -3,7 +3,7 @@ import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
-import CV from "/Users/lucia/Desktop/my-portfolio/src/assets/Lucia Tacchetti CV ENG.pdf"
+import CV from "/workspace/lucia-tacchetti-porfolio/src/assets/CVENG.pdf"
 
 
 const Navbar = () => {
