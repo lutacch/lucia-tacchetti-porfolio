@@ -23,19 +23,19 @@ const Contact = () => {
           </p>
         </div>
         <input
-          className="bg-gray-200 p-2"
+          className="text-gray-500 bg-gray-200 p-2"
           type="text"
           placeholder="Name"
           name="name"
         />
         <input
-          className="my-4 p-2 bg-gray-200"
+          className="my-4 p-2 bg-gray-200 text-gray-500"
           type="email"
           placeholder="Email"
           name="email"
         />
         <textarea
-          className="bg-gray-200 p-2"
+          className="bg-gray-200 p-2 text-gray-500"
           name="message"
           rows="10"
           placeholder="Message"
