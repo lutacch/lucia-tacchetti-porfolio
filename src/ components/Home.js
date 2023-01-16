@@ -16,10 +16,11 @@ const Home = () => {
           I'm a Full Stack Developer
         </h2>
         <p className="text-gray-600 max-w-[700px]">
-          I'm a very creative person in constant search of changes. A few months
-          ago, I decided to start studing programming and make a professional
-          turn and change my life. I enjoy creating solutions and giving my
-          vision.
+
+        I'm a very creative person and in constant search of changes.
+I decided to start studying programming and make a professional turn to change my life.
+I enjoy creating solutions and giving my vision.
+          
         </p>
         <div>
           <Link to="projects" smooth={true} duration={500}>
